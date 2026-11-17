@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="navy_background">#0A1A3A</color>
+    <color name="navy_card">#122B5C</color>
+    <color name="gold">#D4AF37</color>
+    <color name="correct_green">#2E7D32</color>
+</resources>
