@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SiriAndroidAI" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/navy_background</item>
+        <item name="colorPrimaryDark">@color/navy_background</item>
+        <item name="colorAccent">@color/gold</item>
+        <item name="android:windowBackground">@color/navy_background</item>
+    </style>
+</resources>
